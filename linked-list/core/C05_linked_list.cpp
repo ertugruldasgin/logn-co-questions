@@ -1,4 +1,5 @@
 #include  <bits/stdc++.h>
+using namespace std;
 
 struct ListNode {
     int val;
@@ -8,7 +9,7 @@ struct ListNode {
 
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+    ListNode *detectCycle(ListNode *head) {
         
     }
 };

@@ -1,4 +1,5 @@
 #include  <bits/stdc++.h>
+using namespace std;
 
 struct ListNode {
     int val;
@@ -10,7 +11,7 @@ struct ListNode {
 
 class Solution {
 public:
-    ListNode* deleteDuplicates(ListNode* head) {
+    vector<ListNode*> splitListToParts(ListNode* head, int k) {
         
     }
 };
