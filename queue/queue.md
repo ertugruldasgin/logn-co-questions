@@ -24,43 +24,18 @@
   <tbody>
 
 <tr>
-<td>🔹 <a href="">LeetCode – </a></td>
+<td>🔹 <a href="https://leetcode.com/problems/first-unique-character-in-a-string/">LeetCode 387 – First Unique Character in a String</a></td>
 <td><a href="base/B01_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🔹 <a href="">LeetCode – </a></td>
+<td>🔹 <a href="https://leetcode.com/problems/number-of-recent-calls/">LeetCode 933 – Number of Recent Calls</a></td>
 <td><a href="base/B02_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🔹 <a href="">LeetCode –</a></td>
+<td>🔹 <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/">LeetCode 2073 – Time Needed to Buy Tickets</a></td>
 <td><a href="base/B03_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔹 <a href="">LeetCode – </a></td>
-<td><a href="base/B04_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔹 <a href="">LeetCode – </a></td>
-<td><a href="base/B05_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔹 <a href="">LeetCode – </a></td>
-<td><a href="base/B06_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔹 <a href="">LeetCode – </a></td>
-<td><a href="base/B07_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔹 <a href="">LeetCode – </a></td>
-<td><a href="base/B08_queue.cpp">📄 Open Code</a></td>
 </tr>
 
   </tbody>
@@ -78,43 +53,33 @@
   <tbody>
 
 <tr>
-<td>🟢 <a href="">LeetCode –</a></td>
+<td>🟢 <a href="https://leetcode.com/problems/sliding-window-maximum/">LeetCode 239 – Sliding Window Maximum</a></td>
 <td><a href="core/C01_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🟢 <a href="">LeetCode – </a></td>
+<td>🟢 <a href="https://leetcode.com/problems/flatten-nested-list-iterator/">LeetCode 341 – Flatten Nested List Iterator</a></td>
 <td><a href="core/C02_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🟢 <a href="">LeetCode – </a></td>
+<td>🟢 <a href="https://leetcode.com/problems/maximum-sum-circular-subarray/">LeetCode 918 – Maximum Sum Circular Subarray</a></td>
 <td><a href="core/C03_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🟢 <a href="">LeetCode – </a></td>
+<td>🟢 <a href="https://leetcode.com/problems/reveal-cards-in-increasing-order/">LeetCode 950 – Reveal Cards In Increasing Order</a></td>
 <td><a href="core/C04_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🟢 <a href="">LeetCode – </a></td>
+<td>🟢 <a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/">LeetCode 1823 – Find the Winner of the Circular Game</a></td>
 <td><a href="core/C05_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🟢 <a href="">LeetCode – </a></td>
+<td>🟢 <a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/">LeetCode 2327 – Number of People Aware of a Secret</a></td>
 <td><a href="core/C06_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🟢 <a href="">LeetCode –</a></td>
-<td><a href="core/C07_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🟢 <a href="">LeetCode – </a></td>
-<td><a href="core/C08_queue.cpp">📄 Open Code</a></td>
 </tr>
 
   </tbody>
@@ -132,28 +97,19 @@
   <tbody>
 
 <tr>
-<td>🔴 <a href="">LeetCode – </a></td>
+<td>🔴 <a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">LeetCode 862 – Shortest Subarray with Sum at Least K</a></td>
 <td><a href="apex/A01_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🔴 <a href="">LeetCode – </a></td>
+<td>🔴 <a href="https://leetcode.com/problems/stamping-the-sequence/">LeetCode 936 – Stamping The Sequence</a></td>
 <td><a href="apex/A02_queue.cpp">📄 Open Code</a></td>
 </tr>
 
 <tr>
-<td>🔴 <a href="">LeetCode – </a></td>
+<td>🔴 <a href="https://leetcode.com/problems/constrained-subsequence-sum/">LeetCode 1425 – Constrained Subsequence Sum
+</a></td>
 <td><a href="apex/A03_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔴 <a href="">LeetCode – </a></td>
-<td><a href="apex/A04_queue.cpp">📄 Open Code</a></td>
-</tr>
-
-<tr>
-<td>🔴 <a href="">LeetCode – </a></td>
-<td><a href="apex/A05_queue.cpp">📄 Open Code</a></td>
 </tr>
 
   </tbody>
